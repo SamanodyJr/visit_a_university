@@ -16,8 +16,3 @@ You can also find a back button on the university list page to go back to countr
 ## Application Issues:
 no issues happened to have occured. 
   
------------------
-## Difficulties Faced:
-1. Knowing that you need to work on API less than 30
-2. Altering the manifest file to give permissions
-3. Switching from activity one to two to not only fetch the name but the domain and webpage as well was time consuming.
